@@ -21,7 +21,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <div align="center">
 
 ---
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
 <i>Follow me around the web:</i><br>
 
