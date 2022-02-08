@@ -1,4 +1,4 @@
-![image_processing20210906-23383-152brl8](https://user-images.githubusercontent.com/93374610/152932326-598075f7-ea10-4b59-9e0b-5b321ee3574e.gif)
+
 <!-- ### Hi there I'm Tanmay👋 -->
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="0px"></h2>
