@@ -44,11 +44,11 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <i>Follow me around the web:</i><br>
 
 
-<a href="https://www.linkedin.com/in/tanmay-shirsat-64aa0b1aa/?originalSubdomain=in" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/tanmay-shirsat-64aa0b1aa/?originalSubdomain=in" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   
- <a href="https://www.instagram.com/tanmay_shirsat_/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+ <a href="https://www.instagram.com/tanmay_shirsat_/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
 
- <a href="https://www.facebook.com/tanmay.shirsat.9" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+ <a href="https://www.facebook.com/tanmay.shirsat.9" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>&nbsp; 
  
 </div>
 
