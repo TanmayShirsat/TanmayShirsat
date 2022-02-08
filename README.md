@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-
+Yes, Yor're correct I'm full stack developer👨‍💻 as well as UX UI Designer✏️<br>
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 
