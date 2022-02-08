@@ -5,9 +5,8 @@
 
 <div align="center" width="50">
 
-<!-- <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/> -->
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/9LQHvkbIzTSLe" width="300"  style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/vs-designer-developer-9LQHvkbIzTSLe">via GIPHY</a></p>
-
+<img src="https://giphy.com/gifs/vs-designer-developer-9LQHvkbIzTSLe" alt="Welcome!" width="300"/>
+ 
 </div>
 
 <div align="center">
