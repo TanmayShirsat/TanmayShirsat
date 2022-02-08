@@ -5,7 +5,7 @@
 
 <div align="center" width="50">
 
-<img src="https://giphy.com/gifs/vs-designer-developer-9LQHvkbIzTSLe" alt="Welcome!" width="300"/>
+<img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" alt="Welcome!" width="300"/>
  
 </div>
 
