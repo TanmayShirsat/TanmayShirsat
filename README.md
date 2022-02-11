@@ -13,6 +13,9 @@
 <div align="center">
 Yes, Yor're correct I'm full stack developer👨‍💻 as well as UX UI Designer✏️<br>
 You have finally discovered my Github profile. <br>
+
+I'm Broadly and deeply knowledgeable in MERN Stack as well as the principles and having experience in solving so many DSA problems. <br>
+I am now looking for my first full-time development role with room to grow and learn
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 
 <i>Happy Coding!</i> 😊
